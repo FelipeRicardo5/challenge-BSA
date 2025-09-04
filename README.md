@@ -147,6 +147,10 @@ Usa SQLite com uma tabela simples:
 - **Banco**: SQLite local
 - **Logs**: Em tempo real
 
+##  Histórico do repositório antigo.
+
+![historico](assets/commits.png)
+
 ##  Licença
 
 Projeto desenvolvido como desafio técnico.
