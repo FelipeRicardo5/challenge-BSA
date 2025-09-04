@@ -157,4 +157,4 @@ Projeto desenvolvido como desafio técnico.
 
 ##  Desenvolvedor
 
-**F. Ricardo** - Desenvolveu este chat com FastAPI e WebSocket, seguindo boas práticas de programação assíncrona. O projeto é funcional, bem estruturado e fácil de entender e modificar. 
+**F. Ricardo** - Desenvolveu com FastAPI e WebSocket, seguindo boas práticas de programação assíncrona. O projeto é funcional, bem estruturado e fácil de entender e modificar. 
